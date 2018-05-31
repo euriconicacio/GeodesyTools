@@ -1,9 +1,9 @@
 # GeodesyTools
-Couple of scripts to acquire GNSS/Ephemeris data
+Couple of scripts to optmize Geodesy data acquisition and processing. Enjoy!
 
 ## Acknowledments
 
-- To the Brazilian Army, specially to the Science and Technology Deartment and to the Geographic Service Bureau, for the opportunity of helding MSc studied with full dedication;
+- To the Brazilian Army, specially to the Science and Technology Department and to the Geographic Service Bureau, for the opportunity of helding MSc studied with full dedication;
 - To the PPGCG, specially to my friend and advisor Prof. Regiane Dalazoana (DSc).
 
 ## Credits
